@@ -58,7 +58,7 @@ AI-Project-Template/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/AI-Project-Template.git
+   git clone https://github.com/Huzaifa7524/AI-Project-Template.git
    cd AI-Project-Template
    ```
 2. **Create a virtual environment:**
